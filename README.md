@@ -30,10 +30,12 @@ Solution of exercise 6.7 of the book *"Artificial Intelligence A Modern Approach
 
 To see the assignments to each of the variables that satisfy the constraints of the problem, execute:
 
-`python five_houses.py`
+```bash
+python five_houses.py
+```
 
+`Stuart Russel, Peter Norvin, "Artificial Intelligence A Modern Approach", Third Edition, 2010.`
 
-**Stuart Russel, Peter Norvin, "Artificial Intelligence A Modern Approach", Third Edition, 2010.**
 
 
 
